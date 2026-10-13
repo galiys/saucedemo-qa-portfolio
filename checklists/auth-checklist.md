@@ -12,7 +12,7 @@
 
 ## Безопасность
 - [x] Прямой заход на /inventory.html без авторизации - возврат на страницу логина
-- [x] При выходе из аккаунта кнопка "Назад" в браузере не возвращаяет в систему (ошибка: You can only access '/inventory.html' when you are logged in.)
+- [x] При выходе из аккаунта кнопка "Назад" в браузере не возвращает в систему (ошибка: You can only access '/inventory.html' when you are logged in.)
 ## UI
 - [x] Шрифты соответствуют требованиям (DM Sans, Arial, Helvetica, sans-serif) - проверено через DevTools
 - [x] Кнопка Login имеет цвет #3DDC91 (в соответствии с брендбуком) - проверено через DevTools
