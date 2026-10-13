@@ -21,7 +21,10 @@
 - problem_user, там заложены баги
 
 ## Тестовые данные
-4 аккаунта с сайта: standard_user, locked_out_user, problem_user,
+4 аккаунта с сайта: 
+standard_user, 
+locked_out_user, 
+problem_user,
 performance_glitch_user
 Пароль у всех — secret_sauce
 
