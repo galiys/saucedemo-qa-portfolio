@@ -1,19 +1,19 @@
 # Чек-лист: Авторизация
 ## Позитивные проверки
-[x] happy path(проверка входа с валидными данными standard_user) - переход к каталогу
-[x] Вход под заблокированным пользователем (Sorry, this user has been locked out.)
-[x] Вход по кнопке Login (она активна и кликабельна)
-[x] Вход через нажатие Enter
-[] ..
+- [x] happy path(проверка входа с валидными данными standard_user) - переход к каталогу
+- [x] Вход под заблокированным пользователем (Sorry, this user has been locked out.)
+- [x] Вход по кнопке Login (она активна и кликабельна)
+- [x] Вход через нажатие Enter
+- [] ..
 ## Негативные проверки
-[x] Вход с неверным логином/паролем (Username and password do not match any user in this service)
-[x] Отправка пустых форм логин/пароль (Username is required)
-[x] Отправка пустой формы пароль (Password is required)
-[] ..
+- [x] Вход с неверным логином/паролем (Username and password do not match any user in this service)
+- [x] Отправка пустых форм логин/пароль (Username is required)
+- [x] Отправка пустой формы пароль (Password is required)
+- [] ..
 ## Безопасность
-[x] При вводе пароль скрывается точками
-[] ..
+- [x] При вводе пароль скрывается точками
+- [] ..
 ## UI
-[x] Шрифты соответствуют требованиям (DM Sans, Arial, Helvetica, sans-serif)
-[x] Кнопка Login имеет цвет #3DDC91 (в соответствии с брендбуком)
-[] ..
+- [x] Шрифты соответствуют требованиям (DM Sans, Arial, Helvetica, sans-serif)
+- [x] Кнопка Login имеет цвет #3DDC91 (в соответствии с брендбуком)
+- [] ..
