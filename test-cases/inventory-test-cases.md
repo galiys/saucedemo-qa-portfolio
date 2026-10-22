@@ -54,7 +54,9 @@
 Возврат на главную страницу каталога: https://www.saucedemo.com/inventory.html
 
 #### Комментарии:
-У problem_user этот товар отсутствует, составлен баг-репорт: [BUG-01](/bug-reports/BUG-01-item-not-found-cart.md)
+У problem_user этот товар отсутствует, составлен баг-репорт: 
+[BUG-01](/bug-reports/BUG-01-item-not-found-cart.md)
+
 У problem_user перепутаны ссылки на товары, составлен баг-репорт:
 [BUG-02](/bug-reports/BUG-02-confused-product-links.md)
 
